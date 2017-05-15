@@ -20,6 +20,7 @@ matriz en tiempo de ejecución.
 	python3 src/programa.py -g <ARCHIVO DE GRAMÁTICA.cfg> -w <CADENA> -v
 
 Se incluye una gramática para la prueba del programa.
+
 #### Consideraciones
 Es necesario que las gramáticas dadas siempre respeten este formato
 
@@ -32,7 +33,7 @@ Es necesario que las gramáticas dadas siempre respeten este formato
 	Y
 	X
 	S # El símbolo inicial
-	6 # El número de producciones seguidas de las mismas
+	6 # El número de producciones seguido de las mismas
 	S T Y
 	S T X
 	S S S

@@ -39,3 +39,10 @@ https:// y .com.
 Ejercicio 3: Para este caso, se usó sed de la forma sed -E "s///";"s///";"s///",
 luego, se le pasa a la cadena cada caso que se solicita y se reemplazan los caracteres
 que no nos interesan para limpiarla.
+
+###### Archivos
+- DATE.jff es el autómata que acompaña al ejercicio 1 de expresiones regulares.
+- URL.jff es el autómata que acompaña al ejercicio 2 de los CSV.
+- VERBOS.jff es el autómata que acompaña al ejercicio 2 de epxresiones regulares.
+- CSV.jff es el autómata que acompaña al ejercicio 1 de los CSV.
+
